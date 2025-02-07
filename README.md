@@ -14,15 +14,15 @@ Je suis un étudiant ingénieur à l'ISEN Ouest, actuellement en échange à l'U
 
 ## Projets
 
-### 1. **Comptage de véhicules avec YOLO**
+### **Comptage de véhicules avec YOLO**
    - **Description** : Ce projet consiste à détecter et compter les véhicules dans une rue en utilisant YOLO. Le système différencie également le sens de circulation et le type de véhicule (voiture, camion, vélo, personne). Une interface web en Flask permet d'afficher les statistiques et les compteurs en temps réel.
    - **Technologies** : Python, OpenCV, YOLO, Flask
-   - **Lien du projet** : [#]
+   - **Lien du projet** : [https://github.com/eltar14/projet-comptage](https://github.com/eltar14/projet-comptage)
 
-### 2. **Détection du langage des signes américain**
+### **Détection du langage des signes américain**
    - **Description** : Ce projet en groupe vise à détecter le langage des signes américain à partir de vidéos. Les prédictions de lettres sont nettoyées et optimisées avec un modèle de traitement de langage (LLM, ici ChatGPT) pour corriger les erreurs de détection (lettres doublées, ajout d'espaces, etc.).
    - **Technologies** : Python, OpenCV, YOLO, LLM (ChatGPT)
-   - **Lien du projet** : [#]
+   - **Lien du projet** : [https://github.com/eltar14/projet-VA](https://github.com/eltar14/projet-VA)
 
 
 ## Objectifs professionnels
