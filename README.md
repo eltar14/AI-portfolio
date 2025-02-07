@@ -5,12 +5,11 @@
 
 Je suis un étudiant ingénieur à l'ISEN Ouest, actuellement en échange à l'UQAC pour un double diplôme de maîtrise en informatique. Passionné par l'intelligence artificielle (IA) et la vision artificielle (VA), je suis en 4e année de mes études et je cherche une alternance en vision artificielle pour ma dernière année.
 
-## Compétences en Vision Artificielle
-
+## Compétences et technologies
+- **scikit-learn / TensorFlow / Keras** : Développement de modèles IA classiques et réseaux de neurones.
 - **OpenCV** : Traitement d'images et vidéos, détection de contours, segmentation, détection d'objets, etc.
 - **PyTorch** : Développement de réseaux de neurones convolutifs (CNN), transfer learning, entraînement et fine-tuning de modèles, implémentation de architectures comme YOLO.
 - **YOLO (Ultralytics)** : Détection d'objets en temps réel, entraînement de modèles personnalisés.
-- **scikit-learn / TensorFlow / Keras** : Développement de modèles IA classiques et réseaux de neurones.
 - **Flask** : Développement d'applications web pour la visualisation des résultats de VA en temps réel.
 
 ## Projets
