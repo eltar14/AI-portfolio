@@ -25,6 +25,31 @@ Je suis un étudiant ingénieur à l'ISEN Ouest, actuellement en échange à l'U
    - **Lien du projet** : [https://github.com/eltar14/projet-VA](https://github.com/eltar14/projet-VA)
 
 
+### Projets Big Data, IA et Web 🌐📊
+
+Projet final de troisième année réalisé en trinôme, visant à développer une application complète pour la gestion d'un patrimoine arboré en se basant sur les données de la ville de Saint-Quentin.
+
+**Semaine 1** - Métaheuristique et optimisation : Exploration des méthodes d'optimisation pour un problème de chargement de conteneurs, en combinant méthodes heuristiques et exactes pour minimiser le nombre de conteneurs nécessaires. Initiation à l'optimisation industrielle.  
+**Lien du projet** : [github projet semaine 1](https://github.com/eltar14/test_ptojet_AN)  
+**Diapo de présentation au format PDF** : [lien pdf](https://github.com/eltar14/test_ptojet_AN/blob/master/pres_projet_electif_R.pdf)
+
+**Semaine 2** - Big Data : Analyse exploratoire de données massives sur le patrimoine arboré avec le langage R. Nettoyage, visualisation des données géographiques et graphiques pour des insights exploitables, renforcement des compétences en traitement de données à grande échelle.  
+**Lien du projet** : [github projet semaine 2](https://github.com/TaMLeNok/projet_bigdata)  
+**Diapo de présentation au format PDF** : [lien pdf](https://github.com/TaMLeNok/projet_bigdata/blob/main/pres%20big%20data%20projet%20S6.pdf)
+
+**Semaine 3** - Intelligence Artificielle : Développement de modèles de clustering pour catégoriser les arbres par taille, et de régression pour estimer leur âge. Un modèle de prévision des risques d'arbres déracinés lors de tempêtes a également été intégré.  
+**Lien du projet** : [github projet semaine 3](https://github.com/TaMLeNok/projet_IA_A3)  
+**Rapport PDF** : [lien pdf](https://github.com/TaMLeNok/projet_IA_A3/blob/main/rapport_IA_projet_Antoine_Nathan_Tom.pdf)
+**Diapo de présentation au format PDF** : [lien pdf](https://github.com/TaMLeNok/projet_IA_A3/blob/main/pres%20projet%20IA_nathan_tom_antoine.pdf)  
+
+**Semaine 4** - Développement Web : Création d’une application web avec frontend en HTML, CSS et JavaScript (intégration de cartes dynamiques via Plotly et Leaflet/OSM), backend en PHP et SQL avec requêtes AJAX, et intégration des modèles IA pour une visualisation.  
+**Lien du projet** : [github projet semaine 4](https://github.com/eltar14/projet_web_S6)  
+**Diapo de présentation au format PDF** : [lien pdf](https://github.com/eltar14/projet_web_S6/blob/main/Pres_projet_web_S6.pdf)  
+
+**Acquis** : Expérience complète de projet full-stack, compétences avancées en Big Data, IA et développement d’API, gestion d'applications concrètes alliant plusieurs technologies et optimisées pour l'utilisateur final.
+
+
+
 ## Objectifs professionnels
 
 Actuellement, je cherche une alternance en **IA**, plus précisément das le domaine de la **vision artificielle**, où je pourrai mettre à profit mes compétences en traitement d'images et en IA pour résoudre des problèmes complexes et travailler sur des applications innovantes.
