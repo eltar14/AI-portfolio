@@ -1,4 +1,4 @@
-# AI-vision-portfolio
+# AI-portfolio
 # Portfolio IA - Antoine Le Boulch
 
 ## À propos de moi
