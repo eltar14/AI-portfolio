@@ -3,7 +3,7 @@
 
 ## À propos de moi
 
-Je suis un étudiant ingénieur à l'ISEN Ouest, actuellement en échange à l'UQAC pour un double diplôme de maîtrise en informatique. Passionné par l'intelligence artificielle (IA) et la vision artificielle (VA), je suis en 4e année de mes études et je cherche une alternance en vision artificielle pour ma dernière année.
+Je suis un étudiant ingénieur à l'ISEN Ouest, actuellement en échange à l'UQAC pour un double diplôme de maîtrise en informatique. Passionné par l'intelligence artificielle (IA) et la vision artificielle (VA), je suis en 4e année de mes études et je cherche une alternance en data science pour ma dernière année.
 
 ## Compétences et technologies
 - **scikit-learn / TensorFlow / Keras** : Développement de modèles IA classiques et réseaux de neurones.
