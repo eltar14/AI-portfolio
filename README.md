@@ -1,5 +1,5 @@
 # AI-vision-portfolio
-# Portfolio de Vision Artificielle - Antoine Le Boulch
+# Portfolio IA - Antoine Le Boulch
 
 ## À propos de moi
 
