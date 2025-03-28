@@ -13,6 +13,21 @@ Je suis un étudiant ingénieur à l'ISEN Ouest, actuellement en échange à l'U
 - **Flask** : Développement d'applications web pour la visualisation des résultats de VA en temps réel.
 
 ## Projets
+### 🐍 Snake-RL — apprentissage par renforcement sur Snake
+
+Implémentation d’un agent DQN (Deep Q-Network) entraîné à jouer au jeu Snake dans un environnement personnalisé.
+
+- Environnement grille fait maison, style OpenAI Gym
+- Shaping de récompense (pomme, survie, direction) pour guider l’apprentissage
+- Agent CNN avec mémoire replay et empilement de frames
+- Interface pygame en temps réel avec enregistrement de GIFs
+- Dashboard interactif pour visualiser les logs d’entraînement
+
+**Technos** : Python, PyTorch, Numpy, Pygame, Dash, Plotly  
+**Projet individuel** — premier projet concret en apprentissage par renforcement  
+**Statut** : terminé  
+**Code source** : [github.com/ton-profil/snake-RL](https://github.com/ton-profil/snake-RL)
+
 
 ### **Comptage de véhicules avec YOLO**
    - **Description** : Ce projet consiste à détecter et compter les véhicules dans une rue en utilisant YOLO. Le système différencie également le sens de circulation et le type de véhicule (voiture, camion, vélo, personne). Une interface web en Flask permet d'afficher les statistiques et les compteurs en temps réel.
@@ -52,7 +67,7 @@ Projet final de troisième année réalisé en trinôme, visant à développer u
 
 ## Objectifs professionnels
 
-Actuellement, je cherche une alternance en **IA**, plus précisément das le domaine de la **vision artificielle**, où je pourrai mettre à profit mes compétences en traitement d'images et en IA pour résoudre des problèmes complexes et travailler sur des applications innovantes.
+Actuellement, je cherche une alternance en **IA** et **Data Science**, où je pourrai mettre à profit mes compétences en traitement d'images et en IA pour résoudre des problèmes complexes et travailler sur des applications innovantes.
 
 ## Contact
 
