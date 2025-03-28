@@ -26,7 +26,7 @@ Implémentation d’un agent DQN (Deep Q-Network) entraîné à jouer au jeu Sna
 **Technos** : Python, PyTorch, Numpy, Pygame, Dash, Plotly  
 **Projet individuel** — premier projet concret en apprentissage par renforcement  
 **Statut** : terminé  
-**Code source** : [github.com/eltar14/snake-RL](https://github.com/eltar14/snake-RL)
+**Code source et présentation détaillée** : [github.com/eltar14/snake-RL](https://github.com/eltar14/snake-RL)
 
 
 ### **Comptage de véhicules avec YOLO**
